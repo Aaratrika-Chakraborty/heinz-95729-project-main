@@ -26,3 +26,15 @@ pnpm run watch
 ```
 
 Navigate to http://localhost:3001 to see the app
+
+![Current working image](./screenshot.png)
+Note: To run the application properly there are a couple of things that might also need to be installed via npm check the server.js const "require" variables at the top.
+
+
+## Python 
+Python is necessary in the bash environment in order to allow the ML algorithm to work one should have at least python 3.4 or above
+pip install pathlib
+pip install argparse
+pip install pandas
+pip install scipy
+pip install sklearn 
