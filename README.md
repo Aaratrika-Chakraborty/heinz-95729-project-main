@@ -27,7 +27,7 @@ pnpm run watch
 
 Navigate to http://localhost:3001 to see the app
 
-![Current working image](screenshot.png)
+![Current working image](./Screenshot.png)
 Note: To run the application properly there are a couple of things that might also need to be installed via npm check the server.js const "require" variables at the top.
 Note: The Server is the intermediary between the python script and the single web page, input must come as a string directly from the web\ml\data\features.txt
 The return output will come in the terminal after running and will come from the web\ml\data\chicago.txt 
